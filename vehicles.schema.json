@@ -38,7 +38,7 @@
                                                     "elements": [
                                                         {
                                                             "type": "Control",
-                                                            "label": "Vehicle Type",
+                                                            "label": "Vehicle Type named by omar",
                                                             "scope": "#/properties/vehicleType",
                                                             "options": {
                                                                 "vertical": true,
