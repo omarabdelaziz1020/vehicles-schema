@@ -38,7 +38,7 @@
                                                     "elements": [
                                                         {
                                                             "type": "Control",
-                                                            "label": "Vehicle Type test update",
+                                                            "label": "Vehicle Type OMOM",
                                                             "scope": "#/properties/vehicleType",
                                                             "options": {
                                                                 "vertical": true,
