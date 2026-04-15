@@ -38,7 +38,7 @@
                                                     "elements": [
                                                         {
                                                             "type": "Control",
-                                                            "label": "Vehicle Type OMOM",
+                                                            "label": "Vehicle Type OMOM momo",
                                                             "scope": "#/properties/vehicleType",
                                                             "options": {
                                                                 "vertical": true,
