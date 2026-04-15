@@ -38,7 +38,7 @@
                                                     "elements": [
                                                         {
                                                             "type": "Control",
-                                                            "label": "Vehicle Type named by omar",
+                                                            "label": "Vehicle Type test update",
                                                             "scope": "#/properties/vehicleType",
                                                             "options": {
                                                                 "vertical": true,
